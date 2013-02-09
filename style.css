@@ -6,12 +6,12 @@
 a {
   outline: none;
   text-decoration:none;
-  color: #DA4930;
+  color: #CE7ED9;
 }
 
 body {
   text-align: center;
-  background-color: #7E93D9;
+  background-color: #ABD97E;
   background: url(images/left.png) no-repeat bottom left fixed, url(images/right.png) no-repeat bottom right fixed, -moz-linear-gradient(0, rgba(200,0,0,.5) 50%, transparent 50%), -moz-linear-gradient(rgba(200,0,0,.5) 50%, transparent 50%), #F26522;
   background: url(images/left.png) no-repeat bottom left fixed, url(images/right.png) no-repeat bottom right fixed, -o-linear-gradient(0, rgba(200,0,0,.5) 50%, transparent 50%), -o-linear-gradient(rgba(200,0,0,.5) 50%, transparent 50%), #F26522;
   background: url(images/left.png) no-repeat bottom left fixed, url(images/right.png) no-repeat bottom right fixed, -webkit-linear-gradient(0, rgba(200,0,0,.5) 50%, transparent 50%), -webkit-linear-gradient(rgba(200,0,0,.5) 50%, transparent 50%), #F26522;
@@ -154,7 +154,7 @@ body {
 
 /* :hover styles are applied when the user's mouse hovers over the element */
 .button:hover {
-  background: #F26522 !important;
+  background: #7ECDD9 !important;
   color: #fff;
   cursor: pointer;
 }
